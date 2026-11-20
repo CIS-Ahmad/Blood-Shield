@@ -1,5 +1,5 @@
 
-FROM php:8.5-cli-bookworm
+FROM php:8.4-cli-trixie
 
 # Install PHP extensions and system dependencies
 RUN apt-get update && apt-get install -y \
