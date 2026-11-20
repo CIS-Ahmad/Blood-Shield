@@ -12,7 +12,7 @@ The project aims to make blood donation management more organized, accessible, a
 
 Blood Shield will be available online so users can explore and interact with the application without installing it locally.
 
-- **Live Application:** Coming Soon
+- **Live Application:** https://blood-shield.onrender.com/
 - **Demo Access:** Public access will be available after deployment.
 
 > **Note:** The current version is intended for demonstration purposes. It uses session-based storage rather than a production database, so data is temporary and not shared between visitors.
